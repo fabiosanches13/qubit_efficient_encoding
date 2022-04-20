@@ -1,0 +1,7 @@
+qiskit-terra==0.17.2 
+qiskit-aer==0.8.2
+qiskit-ignis==0.6.0
+qiskit-ibmq-provider==0.12.3
+qiskit-aqua==0.9.1
+qiskit==0.25.4
+pyscf==2.0.1
